@@ -25,7 +25,7 @@ I've learned literally everything I know about coding through this project! Othe
 
   N/A
 
-##usage 
+## usage 
 
 Read the information presented within the boxes. Additionally, use of the browser dev tools console to examine the JavaScript performing tasks. 
 
@@ -33,6 +33,6 @@ Read the information presented within the boxes. Additionally, use of the browse
 
 N/A
 
-##license 
+## license 
 
 Please refer to the LICENSE in the repo.
